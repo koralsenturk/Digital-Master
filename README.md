@@ -90,3 +90,9 @@ designing applied, real-world decision architectures
 
 License
 This project is currently shared for demonstration and discussion purposes.
+
+**Koral Şentürk**  
+Applied AI | Decision Systems | Human Expertise Modeling  
+
+LinkedIn: https://www.linkedin.com/in/koral-şentürk-421912285  
+GitHub: https://github.com/koralsenturk
